@@ -1,0 +1,21 @@
+Name,Spiel,Von,Nach,Fracht,Gewicht,"Geplante Strecke","Akzeptierte Entfernung",Verdienst,Strafen,XP,Schaden,"Benötigte Zeit (real) [s]","Durchschnittlicher Verbrauch",Nachgetankt,Tankkosten,"Maximal erreichte Geschwindigkeit",Auftragstyp,Disposition,TrucksBookID,Beschreibung,Datum,Zeit
+Marco43,ETS2,Metz,Lisboa,Traktoren,"0 kg","3 151 km","646 km","132 652€",0€,2926,0,1843,"44.7 l/100 km","6580 l","12 513 €","93 Km/h",Auftrag,Nein,46791532,,2023-12-03,14:04
+Marco43,ETS2,"Сарајево (Sarajevo)",Iași,Gas-Pipeline-Teile,"21 800 kg","1 084 km","1 311 km","50 171€",0€,1833,0,6009,"67.4 l/100 km","1132 l","1 595 €","97 Km/h",Auftrag,Nein,46796965,,2023-12-03,16:49
+Marco43,ETS2,Iași,"Козлодуй (Kozloduy)","Radlader-Schaufel Volvo SPN P T SEG","3 600 kg","661 km","664 km","26 905€",0€,947,0,2900,"51.2 l/100 km","275 l","428 €","94 Km/h",Auftrag,Nein,46799794,,2023-12-03,18:06
+Freyascloud,ETS2,Iași,"Козлодуй (Kozloduy)",Ahornsirup,"17 734 kg","661 km","664 km","29 215€",0€,845,0,2924,"52.6 l/100 km","453 l","706 €","109 Km/h",Auftrag,Nein,46799820,,2023-12-03,18:06
+Freyascloud,ETS2,"Козлодуй (Kozloduy)","Плевен (Pleven)",Ahornsirup,"17 734 kg","98 km","99 km","4 544€",0€,114,0,471,"57.6 l/100 km","0 l","0 €","98 Km/h",Auftrag,Nein,46800412,,2023-12-03,18:21
+Marco43,ETS2,"Козлодуй (Kozloduy)","Плевен (Pleven)","Zugmaschinen - Volvo","14 680 kg","98 km","100 km","6 846€",0€,176,0,531,"64 l/100 km","0 l","0 €","90 Km/h",Auftrag,Nein,46800463,,2023-12-03,18:22
+Marco43,ETS2,"Плевен (Pleven)","Бијело Поље (Bijelo Polje)",Arbeitskleidung,"16 454 kg","702 km","712 km","25 567€",0€,888,0,2808,"64.5 l/100 km","158 l","224 €","94 Km/h",Auftrag,Nein,46804987,,2023-12-03,20:20
+Marco43,ETS2,"Бијело Поље (Bijelo Polje)","Пирдоп (Pirdop)","Raupenbagger Volvo EC220E","20 470 kg","878 km","962 km","29 557€",0€,872,8,3611,"75.9 l/100 km","889 l","1 262 €","110 Km/h",Auftrag,Nein,46808544,,2023-12-03,21:50
+Freyascloud,ETS2,"Плевен (Pleven)","Бијело Поље (Bijelo Polje)",Ahornsirup,"23 038 kg","702 km","413 km","30 509€",0€,935,2,2089,"70.2 l/100 km","378 l","537 €","110 Km/h",Auftrag,Nein,46828877,,2023-12-04,19:02
+Freyascloud,ETS2,München,Kiel,"Eiskaffee in Dosen","21 903 kg","841 km","839 km","40 268€",0€,1244,0,2260,"42.8 l/100 km","842 l","1 507 €","103 Km/h",Auftrag,Nein,46833918,,2023-12-04,21:40
+Freyascloud,ETS2,Kiel,Olsztyn,Erdnussbutter,"20 131 kg","839 km","837 km","38 387€",0€,1227,0,2574,"52 l/100 km","0 l","0 €","100 Km/h",Auftrag,Nein,46836084,,2023-12-04,22:47
+Freyascloud,ETS2,Hamburg,Vilnius,Bohnen,"12 733 kg","1 211 km","1 213 km","56 927€",0€,1773,0,3674,"45.3 l/100 km","686 l","1 228 €","106 Km/h",Auftrag,Nein,46859825,,2023-12-05,23:08
+Freyascloud,ETS2,Frankfurt,Murcía,"Medizinische Impfstoffe","5 428 kg","1 888 km","2 080 km","137 325€",0€,3117,5,6173,"42 l/100 km","0 l","0 €","95 Km/h",Auftrag,Nein,46908521,,2023-12-08,04:36
+Freyascloud,ETS2,Sheffield,Southampton,Büropapier,"5 428 kg","1 211 km","3 km","19 302€",0€,616,0,154,"133.3 l/100 km","1352 l","2 093 €","79 Km/h",Auftrag,Nein,46921289,,2023-12-08,19:53
+Freyascloud,ETS2,Wexford,Akureyri,Getränke,"24 239 kg","2 841 km","2 088 km","148 226€",0€,2941,2,6388,"53 l/100 km","911 l","1 841 €","100 Km/h",Auftrag,Nein,46925869,,2023-12-08,22:18
+Marco43,ETS2,"Кандалакша (Kandalaksha)",Trofors,"Atlantisches Kabeljaufilet","16 450 kg","1 518 km","1 637 km","62 407€",0€,1778,2,5463,"55 l/100 km","177 l","129 €","112 Km/h",Auftrag,Nein,46941050,,2023-12-09,14:44
+"Andi O",ETS2,Odense,København,Gas-Pipeline-Teile,"3 620 kg","907 km","2 km","7 310€",0€,204,0,78,"50 l/100 km","4304 l","7 126 €","34 Km/h",Auftrag,Nein,47147890,,2023-12-16,13:46
+"Andi O",ETS2,Frankfurt,Strasbourg,Schwermetalle,"10 000 kg","225 km","227 km","5 460€",0€,352,0,1097,"50.7 l/100 km","0 l","0 €","88 Km/h","Externer Auftrag",Nein,47281063,,2023-12-20,12:51
+"Andi O",ETS2,Odense,Erfurt,"Geräucherter Aal","16 003 kg","650 km","652 km","40 970€",0€,835,0,1998,"44 l/100 km","0 l","0 €","101 Km/h",Auftrag,Nein,47283165,,2023-12-20,15:06
+"Andi O",ETS2,"Санкт-Петербург (St. Petersburg)",Kirishi,Altverpackungen,"10 433 kg","286 km","282 km","5 462€",0€,304,0,852,"48.2 l/100 km","0 l","0 €","101 Km/h",Auftrag,Nein,47286590,,2023-12-20,17:37
